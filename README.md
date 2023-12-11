@@ -18,10 +18,14 @@ Here are some ideas to get you started:
 Coding stats:
 <!--START_SECTION:waka-->
 
-```txt
-C++        33 mins         ███████████████████▒░░░░░   76.96 %
-Markdown   9 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.53 %
-Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+```rust
+From: 10 December 2023 - To: 11 December 2023
+
+Total Time: 42 mins
+
+C++        33 mins         >>>>>>>>>>>>>>>>>>>------   76.96 %
+Markdown   9 mins          >>>>>--------------------   21.53 %
+Other      0 secs          -------------------------   01.50 %
 ```
 
 <!--END_SECTION:waka-->
