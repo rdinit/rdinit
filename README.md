@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Coding stats:
+My coding statistics:
+<div>
+ <img src="https://github-readme-stats.vercel.app/api?username=rdinit&show_icons=true&theme=neon&line_height=24&card_width=500">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdinit&theme=neon&layout=compact&langs_count=8&card_width=500">
+</div>
 <!--START_SECTION:waka-->
 
 ```python
