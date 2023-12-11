@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 My coding statistics:
 
-<img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=rdinit&show_icons=true&theme=transparent&line_height=24&custom_title=rdinit%27s+GitHub+Stats" />
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdinit&theme=transparent&layout=compact&langs_count=8&card_width=320" />
+<img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=rdinit&show_icons=true&theme=transparent&line_height=24&custom_title=rdinit%27s+GitHub+Stats&card_width=320" />
+<img height=200 align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdinit&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 
 <!--START_SECTION:waka-->
 
