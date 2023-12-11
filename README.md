@@ -23,9 +23,9 @@ From: 10 December 2023 - To: 11 December 2023
 
 Total Time: 42 mins
 
-C++        33 mins         lllllllllllllllllll □□□□□   76.96 %
-Markdown   9 mins          lllllo□□□□□□□□□□□□□□□□□□□   21.53 %
-Other      0 secs          o□□□□□□□□□□□□□□□□□□□□□□□□   01.50 %
+C++        33 mins         ■■■■■■■■■■■■■■■■■■■□□□□□□   76.96 %
+Markdown   9 mins          ■■■■■□□□□□□□□□□□□□□□□□□□□   21.53 %
+Other      0 secs          □□□□□□□□□□□□□□□□□□□□□□□□□   01.50 %
 ```
 
 <!--END_SECTION:waka-->
