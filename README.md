@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My coding statistics:
 <div>
- <img src="https://github-readme-stats.vercel.app/api?username=rdinit&show_icons=true&theme=transparent&line_height=24&card_width=503&custom_title=rdinit's GitHub Stats">
+ <img src="https://github-readme-stats.vercel.app/api?username=rdinit&show_icons=true&theme=transparent&line_height=24&card_width=503&custom_title=rdinit%27s+GitHub+Stats">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdinit&theme=transparent&layout=compact&langs_count=8&card_width=503">
 </div>
 <!--START_SECTION:waka-->
