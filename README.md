@@ -29,7 +29,7 @@ I'm currently studying CS in NUST MISIS university.
 [Photoscenery manager](https://rdinit.github.io/photoscenery-manager/) Photoscenery tiles selector for FlightGear <br>
 <img align="left" src="https://img.shields.io/badge/github%20pages-%230d1117?style=for-the-badge&logo=github%20pages"><img align="left" src="https://img.shields.io/badge/leaflet-%230d1117?style=for-the-badge&logo=leaflet">
 <br><br>
-[Tu-154 mapcase generator](https://github.com/rdinit/tu_154_mapcase_generator) text from low quality textures to new high quality <br>
+[Tu-154 mapcase generator](https://github.com/rdinit/tu_154_mapcase_generator) Copying text amd formatting from low quality textures to new high quality textures<br>
 <img align="left" src="https://img.shields.io/badge/opencv-%230d1117?style=for-the-badge&logo=opencv"><img align="left" src="https://img.shields.io/badge/pillow-%230d1117?style=for-the-badge&logo=python"><img align="left" src="https://img.shields.io/badge/pytesseract-%230d1117?style=for-the-badge&logo=python">
 <br><br>
 [ETS2_autopilot](https://github.com/rdinit/ets2_autopilot) Very simple autopilot for Euro Truck simulator 2 <br>
