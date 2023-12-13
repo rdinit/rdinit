@@ -27,7 +27,7 @@ I'm currently studying CS in NUST MISIS university.
 <img src="https://img.shields.io/badge/cmake-%230d1117?style=for-the-badge&logo=cmake
 "><img src="https://img.shields.io/badge/github%20actions-%230d1117?style=for-the-badge&logo=github%20actions">
 <br><br>
-[Tu-154 mapcase generator](https://github.com/rdinit/tu_154_mapcase_generator) Copying text amd formatting from low quality textures to new high quality textures<br>
+[Tu-154 mapcase generator](https://github.com/rdinit/tu_154_mapcase_generator) Copying text and formatting from low quality textures to new high quality textures<br>
 <img src="https://img.shields.io/badge/opencv-%230d1117?style=for-the-badge&logo=opencv"><img src="https://img.shields.io/badge/pillow-%230d1117?style=for-the-badge&logo=python"><img src="https://img.shields.io/badge/pytesseract-%230d1117?style=for-the-badge&logo=python">
 <br><br>
 [FlightGear discord RPC](https://github.com/rdinit/flightgear_discord_RPC) Discord Rich Presence status for Flightgear <br>
