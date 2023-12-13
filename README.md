@@ -1,7 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 I'm currently studying CS in NUST MISIS university.
-  
-#### My main areas of knowledge:
+
+### My main areas of knowledge:
 
 <img src="https://img.shields.io/badge/python-%230d1117?style=for-the-badge&logo=python"><img src="https://img.shields.io/badge/opencv-%230d1117?style=for-the-badge&logo=opencv">
 <img src="https://img.shields.io/badge/pytorch-%230d1117?style=for-the-badge&logo=pytorch">
@@ -12,14 +12,14 @@ I'm currently studying CS in NUST MISIS university.
 <img src="https://img.shields.io/badge/html-%230d1117?style=for-the-badge&logo=html5">
 <img src="https://img.shields.io/badge/css-%230d1117?style=for-the-badge&logo=css3">
 
-#### I'm interested in:
+### I'm interested in:
 - Aviation
 - DevOps
 - Deep Learning
 - Computer vision × robotics
 - Electronics (Arduino, FPGA)
 
-#### Some my projects:
+### Some my projects:
 [MathBattle bot](https://github.com/rdinit/mathbattle_bot) Bot playing mathbattle game from Telegram messenger<br>
 <img src="https://img.shields.io/badge/opencv-%230d1117?style=for-the-badge&logo=opencv"><img src="https://img.shields.io/badge/pytorch-%230d1117?style=for-the-badge&logo=pytorch">
 <br><br>
@@ -43,7 +43,7 @@ I'm currently studying CS in NUST MISIS university.
 <img src="https://img.shields.io/badge/opencv-%230d1117?style=for-the-badge&logo=opencv"><img src="https://img.shields.io/badge/tensorflow-%230d1117?style=for-the-badge&logo=tensorflow">
 <br><br>
 
-#### My coding statistics:
+### My coding statistics:
 
 <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=rdinit&show_icons=true&theme=transparent&line_height=24&custom_title=rdinit%27s+GitHub+Stats&card_width=320" />
 <img height=200 align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdinit&theme=transparent&layout=compact&langs_count=8&card_width=320" />
