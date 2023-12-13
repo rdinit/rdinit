@@ -1,21 +1,34 @@
 ### Hi there 👋
+I'm currently studying CS in NUST MISIS university.
+  
+#### My main areas of knowledge:
 
-<!--
-**rdinit/rdinit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### I'm interested in:
+- Aviation
+- DevOps
+- Deep Learning
+- Computer vision × robotics
+- Electronics (Arduino, FPGA)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### My interesting projects:
+- [MathBattle bot](https://github.com/rdinit/mathbattle_bot) Bot playing mathbattle game from Telegram messenger  <img align="right" src="https://img.shields.io/badge/opencv-%230d1117?style=for-the-badge&logo=opencv"><img align="right" src="https://img.shields.io/badge/pytorch-%230d1117?style=for-the-badge&logo=pytorch">
 
-My coding statistics:
+- [Automating full tests](https://github.com/rdinit/automating_full_tests) Workflow to run multiple tests for my CS task <img align="right" src="https://img.shields.io/badge/cmake-%230d1117?style=for-the-badge&logo=cmake
+"><img align="right" src="https://img.shields.io/badge/gh%20actions-%230d1117?style=for-the-badge&logo=github%20actions">
+
+- [FlightGear discord RPC](https://github.com/rdinit/flightgear_discord_RPC) Discord Rich Presence status for Flightgear <img align="right" src="https://img.shields.io/badge/gh%20actions-%230d1117?style=for-the-badge&logo=github%20actions"><img align="right" src="https://img.shields.io/badge/pypresence-%230d1117?style=for-the-badge&logo=discord">
+
+- [FG voice assistant](https://github.com/rdinit/fg_voice_assistant) Voice controlled co-pilot for FlightGear <img align="right" src="https://img.shields.io/badge/pyttsx-%230d1117?style=for-the-badge&logo=python">
+
+- [Photoscenery manager](https://rdinit.github.io/photoscenery-manager/) Photoscenery tiles selector for FlightGear <img align="right" src="https://img.shields.io/badge/github%20pages-%230d1117?style=for-the-badge&logo=github%20pages"><img align="right" src="https://img.shields.io/badge/leaflet-%230d1117?style=for-the-badge&logo=leaflet">
+
+- [Tu-154 mapcase generator](https://github.com/rdinit/tu_154_mapcase_generator) text from low quality textures to new high quality <img align="right" src="https://img.shields.io/badge/opencv-%230d1117?style=for-the-badge&logo=opencv"><img align="right" src="https://img.shields.io/badge/pillow-%230d1117?style=for-the-badge&logo=python"><img align="right" src="https://img.shields.io/badge/pytesseract-%230d1117?style=for-the-badge&logo=python">
+
+- [ETS2_autopilot](https://github.com/rdinit/ets2_autopilot) Very simple autopilot for Euro Truck simulator 2 <img align="right" src="https://img.shields.io/badge/opencv-%230d1117?style=for-the-badge&logo=opencv"><img align="right" src="https://img.shields.io/badge/tensorflow-%230d1117?style=for-the-badge&logo=tensorflow">
+
+
+#### My coding statistics:
 
 <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=rdinit&show_icons=true&theme=transparent&line_height=24&custom_title=rdinit%27s+GitHub+Stats&card_width=320" />
 <img height=200 align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdinit&theme=transparent&layout=compact&langs_count=8&card_width=320" />
