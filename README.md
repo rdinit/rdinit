@@ -3,6 +3,14 @@ I'm currently studying CS in NUST MISIS university.
   
 #### My main areas of knowledge:
 
+<img src="https://img.shields.io/badge/python-%230d1117?style=for-the-badge&logo=python"><img src="https://img.shields.io/badge/opencv-%230d1117?style=for-the-badge&logo=opencv">
+<img src="https://img.shields.io/badge/pytorch-%230d1117?style=for-the-badge&logo=pytorch">
+<img src="https://img.shields.io/badge/flask-%230d1117?style=for-the-badge&logo=flask">
+<img src="https://img.shields.io/badge/fastapi-%230d1117?style=for-the-badge&logo=fastapi">
+<img src="https://img.shields.io/badge/arduino-%230d1117?style=for-the-badge&logo=arduino"><img src="https://img.shields.io/badge/docker-%230d1117?style=for-the-badge&logo=docker">
+<img src="https://img.shields.io/badge/kompas3d-%230d1117?style=for-the-badge&logo=kompas3d">
+<img src="https://img.shields.io/badge/html-%230d1117?style=for-the-badge&logo=html5">
+<img src="https://img.shields.io/badge/css-%230d1117?style=for-the-badge&logo=css3">
 
 #### I'm interested in:
 - Aviation
@@ -13,27 +21,26 @@ I'm currently studying CS in NUST MISIS university.
 
 #### Some my projects:
 [MathBattle bot](https://github.com/rdinit/mathbattle_bot) Bot playing mathbattle game from Telegram messenger<br>
-<img align="left" src="https://img.shields.io/badge/opencv-%230d1117?style=for-the-badge&logo=opencv"><img align="left" src="https://img.shields.io/badge/pytorch-%230d1117?style=for-the-badge&logo=pytorch">
+<img src="https://img.shields.io/badge/opencv-%230d1117?style=for-the-badge&logo=opencv"><img src="https://img.shields.io/badge/pytorch-%230d1117?style=for-the-badge&logo=pytorch">
 <br><br>
-
 [Automating full tests](https://github.com/rdinit/automating_full_tests) Workflow to run multiple tests for my CS task <br>
-<img align="left" src="https://img.shields.io/badge/cmake-%230d1117?style=for-the-badge&logo=cmake
-"><img align="left" src="https://img.shields.io/badge/github%20actions-%230d1117?style=for-the-badge&logo=github%20actions">
+<img src="https://img.shields.io/badge/cmake-%230d1117?style=for-the-badge&logo=cmake
+"><img src="https://img.shields.io/badge/github%20actions-%230d1117?style=for-the-badge&logo=github%20actions">
 <br><br>
 [FlightGear discord RPC](https://github.com/rdinit/flightgear_discord_RPC) Discord Rich Presence status for Flightgear <br>
-<img align="left" src="https://img.shields.io/badge/github%20actions-%230d1117?style=for-the-badge&logo=github%20actions"><img align="left" src="https://img.shields.io/badge/pypresence-%230d1117?style=for-the-badge&logo=discord">
+<img align="" src="https://img.shields.io/badge/github%20actions-%230d1117?style=for-the-badge&logo=github%20actions"><img src="https://img.shields.io/badge/pypresence-%230d1117?style=for-the-badge&logo=discord">
 <br><br>
 [FG voice assistant](https://github.com/rdinit/fg_voice_assistant) Voice controlled co-pilot for FlightGear <br>
-<img align="left" src="https://img.shields.io/badge/pyttsx-%230d1117?style=for-the-badge&logo=python">
+<img align="" src="https://img.shields.io/badge/pyttsx-%230d1117?style=for-the-badge&logo=python">
 <br><br>
 [Photoscenery manager](https://rdinit.github.io/photoscenery-manager/) Photoscenery tiles selector for FlightGear <br>
-<img align="left" src="https://img.shields.io/badge/github%20pages-%230d1117?style=for-the-badge&logo=github%20pages"><img align="left" src="https://img.shields.io/badge/leaflet-%230d1117?style=for-the-badge&logo=leaflet">
+<img align="" src="https://img.shields.io/badge/github%20pages-%230d1117?style=for-the-badge&logo=github%20pages"><img src="https://img.shields.io/badge/leaflet-%230d1117?style=for-the-badge&logo=leaflet">
 <br><br>
 [Tu-154 mapcase generator](https://github.com/rdinit/tu_154_mapcase_generator) Copying text amd formatting from low quality textures to new high quality textures<br>
-<img align="left" src="https://img.shields.io/badge/opencv-%230d1117?style=for-the-badge&logo=opencv"><img align="left" src="https://img.shields.io/badge/pillow-%230d1117?style=for-the-badge&logo=python"><img align="left" src="https://img.shields.io/badge/pytesseract-%230d1117?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/opencv-%230d1117?style=for-the-badge&logo=opencv"><img src="https://img.shields.io/badge/pillow-%230d1117?style=for-the-badge&logo=python"><img src="https://img.shields.io/badge/pytesseract-%230d1117?style=for-the-badge&logo=python">
 <br><br>
 [ETS2_autopilot](https://github.com/rdinit/ets2_autopilot) Very simple autopilot for Euro Truck simulator 2 <br>
-<img align="left" src="https://img.shields.io/badge/opencv-%230d1117?style=for-the-badge&logo=opencv"><img align="left" src="https://img.shields.io/badge/tensorflow-%230d1117?style=for-the-badge&logo=tensorflow">
+<img src="https://img.shields.io/badge/opencv-%230d1117?style=for-the-badge&logo=opencv"><img src="https://img.shields.io/badge/tensorflow-%230d1117?style=for-the-badge&logo=tensorflow">
 <br><br>
 
 #### My coding statistics:
