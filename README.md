@@ -18,10 +18,10 @@ I'm currently studying CS in NUST MISIS university.
 
 [Automating full tests](https://github.com/rdinit/automating_full_tests) Workflow to run multiple tests for my CS task <br>
 <img align="left" src="https://img.shields.io/badge/cmake-%230d1117?style=for-the-badge&logo=cmake
-"><img align="left" src="https://img.shields.io/badge/gh%20actions-%230d1117?style=for-the-badge&logo=github%20actions">
+"><img align="left" src="https://img.shields.io/badge/github%20actions-%230d1117?style=for-the-badge&logo=github%20actions">
 <br><br>
 [FlightGear discord RPC](https://github.com/rdinit/flightgear_discord_RPC) Discord Rich Presence status for Flightgear <br>
-<img align="left" src="https://img.shields.io/badge/gh%20actions-%230d1117?style=for-the-badge&logo=github%20actions"><img align="left" src="https://img.shields.io/badge/pypresence-%230d1117?style=for-the-badge&logo=discord">
+<img align="left" src="https://img.shields.io/badge/github%20actions-%230d1117?style=for-the-badge&logo=github%20actions"><img align="left" src="https://img.shields.io/badge/pypresence-%230d1117?style=for-the-badge&logo=discord">
 <br><br>
 [FG voice assistant](https://github.com/rdinit/fg_voice_assistant) Voice controlled co-pilot for FlightGear <br>
 <img align="left" src="https://img.shields.io/badge/pyttsx-%230d1117?style=for-the-badge&logo=python">
