@@ -20,11 +20,11 @@ I'm currently studying CS in NUST MISIS university.
 - Electronics (Arduino, FPGA)
 
 ### Some my projects:
-[MathBattle bot](https://github.com/rdinit/mathbattle_bot) Bot playing mathbattle game from Telegram messenger<br>
-<img src="https://img.shields.io/badge/opencv-%230d1117?style=for-the-badge&logo=opencv"><img src="https://img.shields.io/badge/pytorch-%230d1117?style=for-the-badge&logo=pytorch">
-<br><br>
 [Automating full tests](https://github.com/rdinit/automating_full_tests) Workflow to run multiple tests for my CS task <br>
 <img src="https://img.shields.io/badge/cmake-%230d1117?style=for-the-badge&logo=cmake"><img src="https://img.shields.io/badge/github%20actions-%230d1117?style=for-the-badge&logo=github%20actions">
+<br><br>
+[dobblecards](https://dobblecards.pythonanywhere.com/dobble) Service to generate cards for Dobble game<br>
+<img src="https://img.shields.io/badge/pillow-%230d1117?style=for-the-badge&logo=python"><img src="https://img.shields.io/badge/flask-%230d1117?style=for-the-badge&logo=flask">
 <br><br>
 [Tu-154 mapcase generator](https://github.com/rdinit/tu_154_mapcase_generator) Copying text and formatting from low quality textures to new high quality textures<br>
 <img src="https://img.shields.io/badge/opencv-%230d1117?style=for-the-badge&logo=opencv"><img src="https://img.shields.io/badge/pillow-%230d1117?style=for-the-badge&logo=python"><img src="https://img.shields.io/badge/pytesseract-%230d1117?style=for-the-badge&logo=python">
@@ -34,6 +34,9 @@ I'm currently studying CS in NUST MISIS university.
 <br><br>
 [FG voice assistant](https://github.com/rdinit/fg_voice_assistant) Voice controlled co-pilot for FlightGear <br>
 <img align="" src="https://img.shields.io/badge/pyttsx-%230d1117?style=for-the-badge&logo=python">
+<br><br>
+[MathBattle bot](https://github.com/rdinit/mathbattle_bot) Bot playing mathbattle game from Telegram messenger<br>
+<img src="https://img.shields.io/badge/opencv-%230d1117?style=for-the-badge&logo=opencv"><img src="https://img.shields.io/badge/pytorch-%230d1117?style=for-the-badge&logo=pytorch">
 <br><br>
 [Photoscenery manager](https://rdinit.github.io/photoscenery-manager/) Photoscenery tiles selector for FlightGear <br>
 <img align="" src="https://img.shields.io/badge/github%20pages-%230d1117?style=for-the-badge&logo=github%20pages"><img src="https://img.shields.io/badge/leaflet-%230d1117?style=for-the-badge&logo=leaflet">
