@@ -3,7 +3,7 @@ I'm currently studying CS in NUST MISIS university.
 
 ### My main areas of knowledge:
 
-<img src="https://img.shields.io/badge/python-%230a0e12?style=for-the-badge&logo=python"><img src="https://img.shields.io/badge/opencv-%230a0e12?style=for-the-badge&logo=opencv">
+<img src="https://img.shields.io/badge/python-%230a0e12?style=for-the-badge&logo=python"> <img src="https://img.shields.io/badge/opencv-%230a0e12?style=for-the-badge&logo=opencv">
 <img src="https://img.shields.io/badge/pytorch-%230a0e12?style=for-the-badge&logo=pytorch">
 <img src="https://img.shields.io/badge/flask-%230a0e12?style=for-the-badge&logo=flask">
 <img src="https://img.shields.io/badge/fastapi-%230a0e12?style=for-the-badge&logo=fastapi">
