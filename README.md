@@ -48,7 +48,7 @@ I'm currently studying CS in NUST MISIS university.
 ### My coding statistics:
 
 <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=rdinit&show_icons=true&theme=transparent&line_height=24&custom_title=rdinit%27s+GitHub+Stats&card_width=320" />
-<img height=200 align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdinit&theme=transparent&layout=compact&langs_count=8&card_width=320" />
+<img height=200 align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdinit&theme=transparent&layout=compact&langs_count=8&card_width=320&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.2" />
 
 <!--START_SECTION:waka-->
 
