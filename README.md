@@ -53,15 +53,15 @@ I'm currently studying CS in NUST MISIS university.
 <!--START_SECTION:waka-->
 
 ```python
-From: 08 October 2024 - To: 15 October 2024
+From: 09 October 2024 - To: 16 October 2024
 
-Total Time: 18 hrs 24 mins
+Total Time: 18 hrs 6 mins
 
-Python        8 hrs 41 mins   ■■■■■■■■■■■□□□□□□□□□□□□□□   45.45 %
-C++           4 hrs 7 mins    ■■■■■□□□□□□□□□□□□□□□□□□□□   21.54 %
-Docker        1 hr 26 mins    ■■□□□□□□□□□□□□□□□□□□□□□□□   07.55 %
-YAML          1 hr 8 mins     ■□□□□□□□□□□□□□□□□□□□□□□□□   05.99 %
-Go            51 mins         ■□□□□□□□□□□□□□□□□□□□□□□□□   04.51 %
+Python        8 hrs 38 mins   ■■■■■■■■■■■□□□□□□□□□□□□□□   45.84 %
+C++           4 hrs 6 mins    ■■■■■□□□□□□□□□□□□□□□□□□□□   21.85 %
+Docker        1 hr 26 mins    ■■□□□□□□□□□□□□□□□□□□□□□□□   07.67 %
+YAML          54 mins         ■□□□□□□□□□□□□□□□□□□□□□□□□   04.86 %
+Go            51 mins         ■□□□□□□□□□□□□□□□□□□□□□□□□   04.59 %
 ```
 
 <!--END_SECTION:waka-->
