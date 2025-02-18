@@ -20,6 +20,9 @@ I'm currently studying CS in NUST MISIS university.
 - Electronics (Arduino, FPGA)
 
 ### Some my projects:
+[MTS Sistema hack 1st place solution](https://github.com/rdinit/truetech-2025)App to help disabled people (Dangerous situations detection, inclusive objects map, voice assistant, chatbot)<br>
+<img src="https://img.shields.io/badge/pytorch-%230a0e12?style=for-the-badge&logo=pytorch"><img src="https://img.shields.io/badge/YOLO-%230a0e12?style=for-the-badge&logo=yolo"><img src="https://img.shields.io/badge/fastapi-%230a0e12?style=for-the-badge&logo=fastapi"><img src="https://img.shields.io/badge/github%20actions-%230a0e12?style=for-the-badge&logo=github%20actions">
+
 [Automating full tests](https://github.com/rdinit/automating_full_tests) Workflow to run multiple tests for my CS task <br>
 <img src="https://img.shields.io/badge/cmake-%230a0e12?style=for-the-badge&logo=cmake"><img src="https://img.shields.io/badge/github%20actions-%230a0e12?style=for-the-badge&logo=github%20actions">
 <br><br>
