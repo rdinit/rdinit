@@ -56,15 +56,15 @@ I'm currently studying CS in NUST MISIS university.
 <!--START_SECTION:waka-->
 
 ```python
-From: 21 March 2025 - To: 28 March 2025
+From: 22 March 2025 - To: 29 March 2025
 
-Total Time: 22 hrs 34 mins
+Total Time: 21 hrs 55 mins
 
-Terraform    6 hrs 46 mins   ■■■■■■■□□□□□□□□□□□□□□□□□□   28.82 %
-Python       6 hrs 17 mins   ■■■■■■■□□□□□□□□□□□□□□□□□□   26.76 %
-C++          5 hrs 24 mins   ■■■■■■□□□□□□□□□□□□□□□□□□□   22.97 %
-HTML         1 hr 14 mins    ■□□□□□□□□□□□□□□□□□□□□□□□□   05.31 %
-Markdown     1 hr 11 mins    ■□□□□□□□□□□□□□□□□□□□□□□□□   05.07 %
+Terraform   7 hrs 40 mins   ■■■■■■■■□□□□□□□□□□□□□□□□□   33.99 %
+C++         5 hrs 20 mins   ■■■■■■□□□□□□□□□□□□□□□□□□□   23.66 %
+YAML        4 hrs 6 mins    ■■■■■□□□□□□□□□□□□□□□□□□□□   18.19 %
+Python      2 hrs 44 mins   ■■■□□□□□□□□□□□□□□□□□□□□□□   12.16 %
+Markdown    1 hr 16 mins    ■□□□□□□□□□□□□□□□□□□□□□□□□   05.65 %
 ```
 
 <!--END_SECTION:waka-->
