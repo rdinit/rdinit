@@ -56,15 +56,15 @@ I'm currently studying CS in NUST MISIS university.
 <!--START_SECTION:waka-->
 
 ```python
-From: 22 June 2025 - To: 29 June 2025
+From: 24 June 2025 - To: 01 July 2025
 
-Total Time: 9 hrs 28 mins
+Total Time: 8 hrs 29 mins
 
-Terraform   4 hrs 54 mins   ■■■■■■■■■■■■□□□□□□□□□□□□□   46.75 %
-YAML        2 hrs 50 mins   ■■■■■■■□□□□□□□□□□□□□□□□□□   26.97 %
-Other       1 hr 2 mins     ■■□□□□□□□□□□□□□□□□□□□□□□□   09.93 %
-Makefile    48 mins         ■■□□□□□□□□□□□□□□□□□□□□□□□   07.62 %
-Bash        29 mins         ■□□□□□□□□□□□□□□□□□□□□□□□□   04.74 %
+Terraform   3 hrs 24 mins   ■■■■■■■■■□□□□□□□□□□□□□□□□   35.70 %
+YAML        2 hrs 49 mins   ■■■■■■■□□□□□□□□□□□□□□□□□□   29.63 %
+Other       1 hr 2 mins     ■■■□□□□□□□□□□□□□□□□□□□□□□   10.95 %
+Makefile    48 mins         ■■□□□□□□□□□□□□□□□□□□□□□□□   08.40 %
+Bash        24 mins         ■□□□□□□□□□□□□□□□□□□□□□□□□   04.37 %
 ```
 
 <!--END_SECTION:waka-->
