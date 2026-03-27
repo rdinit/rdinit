@@ -56,15 +56,15 @@ I'm currently studying CS in NUST MISIS university.
 <!--START_SECTION:waka-->
 
 ```python
-From: 18 March 2026 - To: 25 March 2026
+From: 19 March 2026 - To: 26 March 2026
 
-Total Time: 7 hrs 23 mins
+Total Time: 4 hrs 35 mins
 
-Python     3 hrs 23 mins         ■■■■■■■■■■■□□□□□□□□□□□□□□   43.15 %
-Markdown   2 hrs 23 mins         ■■■■■■■■□□□□□□□□□□□□□□□□□   30.30 %
-HTML       1 hr 20 mins          ■■■■□□□□□□□□□□□□□□□□□□□□□   17.09 %
-Other      29 mins               ■■□□□□□□□□□□□□□□□□□□□□□□□   06.22 %
-SQL        13 mins               ■□□□□□□□□□□□□□□□□□□□□□□□□   02.80 %
+Markdown   2 hrs 23 mins         ■■■■■■■■■■■■□□□□□□□□□□□□□   47.13 %
+Python     1 hr 31 mins          ■■■■■■■■□□□□□□□□□□□□□□□□□   30.01 %
+Other      28 mins               ■■□□□□□□□□□□□□□□□□□□□□□□□   09.32 %
+HTML       27 mins               ■■□□□□□□□□□□□□□□□□□□□□□□□   09.18 %
+SQL        13 mins               ■□□□□□□□□□□□□□□□□□□□□□□□□   04.35 %
 ```
 
 <!--END_SECTION:waka-->
