@@ -56,7 +56,7 @@ I'm currently studying CS in NUST MISIS university.
 <!--START_SECTION:waka-->
 
 ```python
-From: 08 April 2026 - To: 15 April 2026
+From: 10 April 2026 - To: 17 April 2026
 
 Total Time: 1 hr 43 mins
 
