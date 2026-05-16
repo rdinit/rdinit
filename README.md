@@ -56,15 +56,15 @@ I'm currently studying CS in NUST MISIS university.
 <!--START_SECTION:waka-->
 
 ```python
-From: 07 May 2026 - To: 14 May 2026
+From: 08 May 2026 - To: 15 May 2026
 
-Total Time: 7 hrs 19 mins
+Total Time: 1 hr 24 mins
 
-Python       7 hrs 3 mins          ■■■■■■■■■■■■■■■■□□□□□□□□□   65.36 %
-Other        3 hrs 28 mins         ■■■■■■■■□□□□□□□□□□□□□□□□□   32.21 %
-Batchfile    7 mins                □□□□□□□□□□□□□□□□□□□□□□□□□   01.14 %
-fish         5 mins                □□□□□□□□□□□□□□□□□□□□□□□□□   00.83 %
-SSH Config   2 mins                □□□□□□□□□□□□□□□□□□□□□□□□□   00.42 %
+Other        3 hrs 27 mins         ■■■■■■■■■■■■■■■■■■□□□□□□□   71.16 %
+Python       30 mins               ■■■□□□□□□□□□□□□□□□□□□□□□□   10.61 %
+Batchfile    28 mins               ■■□□□□□□□□□□□□□□□□□□□□□□□   09.63 %
+YAML         15 mins               ■□□□□□□□□□□□□□□□□□□□□□□□□   05.35 %
+fish         5 mins                □□□□□□□□□□□□□□□□□□□□□□□□□   01.83 %
 ```
 
 <!--END_SECTION:waka-->
