@@ -56,15 +56,15 @@ I'm currently studying CS in NUST MISIS university.
 <!--START_SECTION:waka-->
 
 ```python
-From: 20 November 2026 - To: 26 November 2026
+From: 20 November 2026 - To: 27 November 2026
 
-Total Time: 10 hrs 57 mins
+Total Time: 11 hrs 14 mins
 
-C             5 hrs 36 mins         ■■■■■■■■■■■■■□□□□□□□□□□□□   51.12 %
-Go            1 hrs 39 mins         ■■■■□□□□□□□□□□□□□□□□□□□□□   15.00 %
-Python        1 hrs 23 mins         ■■■□□□□□□□□□□□□□□□□□□□□□□   12.63 %
-Cmake         1 hrs 3 mins          ■■□□□□□□□□□□□□□□□□□□□□□□□   09.61 %
-Markdown      0 hrs 27 mins         ■□□□□□□□□□□□□□□□□□□□□□□□□   04.15 %
+C             5 hrs 54 mins         ■■■■■■■■■■■■■□□□□□□□□□□□□   52.49 %
+Go            1 hrs 39 mins         ■■■■□□□□□□□□□□□□□□□□□□□□□   14.62 %
+Python        1 hrs 23 mins         ■■■□□□□□□□□□□□□□□□□□□□□□□   12.24 %
+Cmake         1 hrs 3 mins          ■■□□□□□□□□□□□□□□□□□□□□□□□   09.37 %
+Markdown      0 hrs 27 mins         ■□□□□□□□□□□□□□□□□□□□□□□□□   04.05 %
 ```
 
 <!--END_SECTION:waka-->
